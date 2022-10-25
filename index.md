@@ -17,6 +17,7 @@ My complete project in [***Machine Learning***](https://elearning.unimib.it/cour
 
 [![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/Knime_Classification_Credit-Card-Fraud-Detection/blob/main/Report_definitivo.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/Knime_Classification_Credit-Card-Fraud-Detection)
+[![View on KnimeHub](https://img.shields.io/badge/KNIME-View%20on%20Knime%20Hub-yellow?logo=Knime)](https://hub.knime.com/gianlucav/spaces/Public/latest/Credit%20Card%20Fraud%20Classification~c2_iSRBcc1v7b6pU)
 
 **Credit Card Fraud Detection**: machine learning classification project realized with <code>KNIME</code>
 
