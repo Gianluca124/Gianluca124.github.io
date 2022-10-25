@@ -29,7 +29,7 @@ My complete project in [***Machine Learning***](https://elearning.unimib.it/cour
 
 My complete project in [***Data Management***](https://elearning.unimib.it/course/info.php?id=37922#en) by Unimib (2022).
 
-[![Project Report](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/Competitive-Pokemon-Graph-Database/blob/main/Project%20Report.pdf)
+[![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/Competitive-Pokemon-Graph-Database/blob/main/Project%20Report.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/Competitive-Pokemon-Graph-Database)
 
 **Competitive Pokémon Graph Database**: data management project realized with `Neo4j`
@@ -45,8 +45,8 @@ The final database contains all the information about Pokémon, moves, abilities
 
 My complete project and assignments in [***Data Visualization***](https://elearning.unimib.it/course/info.php?id=37786#en) by Unimib (2022).
 
-[![Open in Browser](https://img.shields.io/badge/Tableau-Open%20In%20Browser-orange)](https://tinyurl.com/3rmhakxn)
-[![Project Report](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/Air_Pollution_Data_Visualization_Tableau/blob/main/Report/CarboneCavallaroMarconziniScuri.pdf)
+[![Open in Browser](https://img.shields.io/badge/Tableau-Open%20In%20Browser-orange?logo=Tableau)](https://tinyurl.com/3rmhakxn)
+[![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/Air_Pollution_Data_Visualization_Tableau/blob/main/Report/CarboneCavallaroMarconziniScuri.pdf)
 [![View on GitHub - Proj](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/Air_Pollution_Data_Visualization_Tableau)
 [![View on GitHub - Assgn](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/DataViz_PROMS_Score)
 
