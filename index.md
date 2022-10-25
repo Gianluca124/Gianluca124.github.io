@@ -72,7 +72,7 @@ Let’s try to answer these questions through some infographics made through Pyt
 
 My complete project in [***Data Semantics***](https://elearning.unimib.it/course/info.php?id=37920) by Unimib (2022).
 
-[![Project Report](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/word-embedding-italian-literature/blob/main/Project%20Report%20EN.pdf)
+[![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/word-embedding-italian-literature/blob/main/Project%20Report%20EN.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/word-embedding-italian-literature)
 
 **Evolution of tòpoi in italian literature**: data semantics project realized with `Python`
