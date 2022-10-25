@@ -15,7 +15,7 @@ Collection of projects realized for the university courses @ University of Milan
 
 My complete project in [***Machine Learning***](https://elearning.unimib.it/course/info.php?id=37914) by Unimib (2022).
 
-[![Project Report](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/Knime_Classification_Credit-Card-Fraud-Detection/blob/main/Report_definitivo.pdf)
+[![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/Knime_Classification_Credit-Card-Fraud-Detection/blob/main/Report_definitivo.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/Knime_Classification_Credit-Card-Fraud-Detection)
 
 **Credit Card Fraud Detection**: machine learning classification project realized with `Knime`
