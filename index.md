@@ -47,8 +47,8 @@ My complete project and assignments in [***Data Visualization***](https://elearn
 
 [![Open in Browser](https://img.shields.io/badge/Tableau-Open%20In%20Browser-orange?logo=Tableau)](https://tinyurl.com/3rmhakxn)
 [![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/Air_Pollution_Data_Visualization_Tableau/blob/main/Report/CarboneCavallaroMarconziniScuri.pdf)
-[![View on GitHub - Proj](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/Air_Pollution_Data_Visualization_Tableau)
-[![View on GitHub - Assgn](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/DataViz_PROMS_Score)
+[![View on GitHub - Proj](https://img.shields.io/badge/GitHub-GitHub%20Project-blue?logo=GitHub)](https://github.com/Gianluca124/Air_Pollution_Data_Visualization_Tableau)
+[![View on GitHub - Assgn](https://img.shields.io/badge/GitHub-GitHub%20Assignment-blue?logo=GitHub)](https://github.com/Gianluca124/DataViz_PROMS_Score)
 
 **Air Pollution - Data Visualization**: data visualization project realized with `Tableau`
 
