@@ -79,7 +79,7 @@ My complete project in [***Data Semantics***](https://elearning.unimib.it/course
 
 <p style="color:#727272">The Greek term tópoi, translated simply as "commonplace", identifies the repertoire of thematic and formal constants that constitute the morphological framework of the Western and Italian literary tradition. Although the spectrum of narrative patterns that have characterized the literature produced in the Italian peninsula is broad and changing over time, tòpos represent a form of imitatio that has never completely faded away, thus a useful tool for handing down the literary tradition. Indeed, conventionality and recurrence allow tòpos to traverse centuries and literary phases, yet lend themselves to the different formulations and interpretations of individual authors.<br />
 <br />
-Through the use of distributional semantics, in particular by using the algorithms word2vec and CADE, some tòpos have been analyzed from the historical and cultural point of view.</p>
+Through the use of distributional semantics, in particular by using the algorithms <code>word2vec</code> and CADE, some tòpos have been analyzed from the historical and cultural point of view.</p>
 
 <img src ="./images/DataSem_image.png" alt="dsem">
 
