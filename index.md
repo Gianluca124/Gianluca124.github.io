@@ -15,7 +15,7 @@ Collection of projects realized for the university courses @ University of Milan
 
 My complete project in [***Machine Learning***](https://elearning.unimib.it/course/info.php?id=37914) by Unimib (2022).
 
-[![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/Knime_Classification_Credit-Card-Fraud-Detection/blob/main/Report_definitivo.pdf)
+[![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/Knime_Classification_Credit-Card-Fraud-Detection/blob/main/Project%20Report.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/Knime_Classification_Credit-Card-Fraud-Detection)
 [![View on KnimeHub](https://img.shields.io/badge/KNIME-View%20on%20Knime%20Hub-yellow?logo=Knime)](https://hub.knime.com/gianlucav/spaces/Public/latest/Credit%20Card%20Fraud%20Classification~c2_iSRBcc1v7b6pU)
 
@@ -73,7 +73,7 @@ Let’s try to answer these questions through some infographics made through Pyt
 
 My complete project in [***Data Semantics***](https://elearning.unimib.it/course/info.php?id=37920) by Unimib (2022).
 
-[![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/word-embedding-italian-literature/blob/main/Project%20Report%20EN.pdf)
+[![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/word-embedding-italian-literature/blob/main/Project%20Report%20-%20EN.pdf)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/word-embedding-italian-literature)
 
 **Evolution of tòpoi in italian literature**: data semantics project realized with <code>Python</code>
