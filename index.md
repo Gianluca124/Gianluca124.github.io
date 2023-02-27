@@ -130,4 +130,18 @@ My complete project in [***Digital Signal & Image Management***](https://elearni
 <p style="color:#727272">Our project involved training a model for conditional image generation of chest X-rays using an AC-GAN architecture. The main objective was to train an Auxiliary Classifier GAN (AC-GAN) to obtain a model for the conditional synthesis of chest radiographs of healthy patients, patients with COVID-19 and patients with non-COVID-19 pneumonia. Additionally, we used the trained GAN to perform data augmentation on the unbalanced COVIDx dataset, generatively balancing minority classes, and possibly improving the performance of some classifiers. The resulting generative model will enable the synthesis of conditionally generated chest X-rays, with potential applications in medical research and diagnostics. The GAN is trained directly on COVIDx CXR-3 dataset with simple preprocessing and positional data augmentation.<br /></p>
 
 <img src ="./images/chest.png" alt="dsem">
+
+---
+### Technological Infrastructures for Data Science
+
+My complete project in [***Technological Infrastructures for Data Science***](https://elearning.unimib.it/course/info.php?id=44575) by Unimib (2023).
+
+[![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://www.slideshare.net/GianlucaCavallaro3/an-overview-on-edge-computing-research-applicationspdf)
+
+**An Overview on Edge Computing Research & Applications**: an in-depth analysis on Edge Computing Paradigm
+
+<p style="color:#727272">Edge computing is a computing paradigm that has become increasingly popular in recent years, as more and more devices are connected to the internet and generate massive amounts of data, and as the need for real-time data processing and analysis has grown in various industries such as healthcare, manufacturing, and transportation.<br /></p>
+
+<img src ="./images/edge-computing.jpg" alt="dsem">
+---
 <center>© 2022 Gianluca Cavallaro. Powered by Jekyll and the Minimal Theme.</center>
