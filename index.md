@@ -99,4 +99,22 @@ My complete project in [***Data Science Lab***](https://elearning.unimib.it/cour
 <img src ="./images/andamentopostlockdown.png" alt="dsem">
 
 ---
+### Text Mining & Search
+
+My complete project in [***Text Mining & Search***](https://elearning.unimib.it/course/info.php?id=44576) by Unimib (2023).
+
+[![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/TextMining_AmazonFineFoods/blob/main/Report.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/TextMining_AmazonFineFoods)
+
+**Text classification and Text clustering on Amazon Fine Food Reviews dataset**: text mining & search project realized with <code>Python</code>
+
+<p style="color:#727272">In this project, different text mining techniques are applied to the Amazon Fine Food Reviews dataset. In particular, the tasks of text classification and text clustering are addressed. The main questions that are being investigated are:
+
+1) Is it possible to classify the reviews as "good" or "bad"?
+2) Is it possible to predict the score assigned to the review from the text of the review itself?
+3) Is it possible to group similar reviews into the same cluster?.<br /></p>
+
+<img src ="./images/amazonfinefoods.jpg" alt="dsem">
+
+---
 <center>© 2022 Gianluca Cavallaro. Powered by Jekyll and the Minimal Theme.</center>
