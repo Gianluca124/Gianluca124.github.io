@@ -122,8 +122,8 @@ My complete project in [***Text Mining & Search***](https://elearning.unimib.it/
 My complete project in [***Digital Signal & Image Management***](https://elearning.unimib.it/course/info.php?id=44564) by Unimib (2023).
 
 [![Project Report](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://www.slideshare.net/GianlucaCavallaro3/medical-data-management-covid19-detection-using-cough-recordings-chest-xrays-classification-and-generation)
-[![View on GitHub - Part 1](https://img.shields.io/badge/GitHub-View_on_GitHub-Part1-blue?logo=GitHub)](https://github.com/Gianluca124/COVID-19-detection-using-Cough-recordings)
-[![View on GitHub - Part 2](https://img.shields.io/badge/GitHub-View_on_GitHub-Part2-blue?logo=GitHub)](https://github.com/Gianluca124/CXR-ACGAN-chest-xray-generator-covid19-pneumonia)
+[![View on GitHub - Part 1](https://img.shields.io/badge/GitHub-View_on_GitHub_Part1-blue?logo=GitHub)](https://github.com/Gianluca124/COVID-19-detection-using-Cough-recordings)
+[![View on GitHub - Part 2](https://img.shields.io/badge/GitHub-View_on_GitHub_Part2-blue?logo=GitHub)](https://github.com/Gianluca124/CXR-ACGAN-chest-xray-generator-covid19-pneumonia)
 
 **Medical data management: COVID-19 detection using cough recordings, chest X-rays classification and generation**: digital signal and image management project realized with <code>Python</code>
 
