@@ -144,4 +144,5 @@ My complete project in [***Technological Infrastructures for Data Science***](ht
 
 <img src ="./images/edge-computing.jpg" alt="dsem">
 ---
+
 <center>© 2022 Gianluca Cavallaro. Powered by Jekyll and the Minimal Theme.</center>
