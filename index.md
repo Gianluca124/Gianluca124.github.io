@@ -149,7 +149,8 @@ My complete project in [***Technological Infrastructures for Data Science***](ht
 
 My master's thesis work realized in collaboration with [***IVL Lab***]([https://elearning.unimib.it/course/info.php?id=44575](https://www.linkedin.com/company/ivlab/?originalSubdomain=it)) at Unimib (2023).
 
-[![Thesis](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)]([https://www.slideshare.net/GianlucaCavallaro3/an-overview-on-edge-computing-research-applicationspdf](https://github.com/Gianluca124/Generative-AI-for-Image-Captioning-Evaluation/blob/main/Cavallaro_Gianluca_LMDS_18_10_2023.pdf)https://github.com/Gianluca124/Generative-AI-for-Image-Captioning-Evaluation/blob/main/Cavallaro_Gianluca_LMDS_18_10_2023.pdf)
+[![Thesis](https://img.shields.io/badge/PDF-Project%20Report-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Gianluca124/Generative-AI-for-Image-Captioning-Evaluation/blob/main/Cavallaro_Gianluca_LMDS_18_10_2023.pdf)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gianluca124/Generative-AI-for-Image-Captioning-Evaluation)
 
 **Generative AI for Image Captioning Evaluation**: experimenting with Text-to-Image models as Image Captioning evaluation tools
 
